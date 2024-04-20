@@ -16,7 +16,6 @@ spring:
         dashboard: 127.0.0.1:8333
 
     alicloud:
-
       oss:
         endpoint: oss-cn-beijing.aliyuncs.com
         bucket: guli-stao
