@@ -16,8 +16,7 @@ spring:
         dashboard: 127.0.0.1:8333
 
     alicloud:
-      access-key: LTAI5tRTQ1pRw7znjdKbpkhp
-      secret-key: 9TVaLFCHGZalZmXr1XjLzdRFZdU3gQ
+
       oss:
         endpoint: oss-cn-beijing.aliyuncs.com
         bucket: guli-stao
