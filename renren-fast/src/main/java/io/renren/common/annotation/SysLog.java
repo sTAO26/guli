@@ -17,7 +17,6 @@ import java.lang.annotation.Target;
 /**
  * 系统日志注解
  *
- * @author Mark sunlightcs@gmail.com
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
